@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/phpunit",
+    "name": "slaughter550/phpunit",
     "description": "The PHP Unit Testing framework.",
     "type": "library",
     "keywords": [
@@ -70,10 +70,5 @@
             "src/Framework/Assert/Functions.php",
             "tests/_files/CoveredFunction.php"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.5.x-dev"
-        }
     }
 }
